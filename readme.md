@@ -11,7 +11,7 @@ Built using:
 - JavaScript
 ```
 
-Before you begin:
+To use:
 ```
 - Update audio URL value in index.html to your preferred live audio feed
 - Update title, header, and footer text in index.html (optional)
