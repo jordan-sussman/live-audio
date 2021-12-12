@@ -14,5 +14,5 @@ Built using:
 Before you begin:
 ```
 - Update audio URL value in index.html to your preferred live audio feed
-- Update title and header (optional)
+- Update title, header, and footer text in index.html (optional)
 ```
