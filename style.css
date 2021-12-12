@@ -1,0 +1,63 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,600,700,800,900&display=swap');
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  background: linear-gradient(#0c0933, #7597de);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-family: 'Poppins', sans-serif;
+  margin: 0;
+}
+
+h1
+{
+  color: #fff;
+  text-transform: uppercase;
+}
+
+.footer
+{
+  color: #fff;
+  position: fixed;
+  padding: 10px 10px 0px 10px;
+  bottom: 0;
+  width: 100%;
+}
+
+.music-container {
+  background-color: #fff;
+  border-radius: 25px;
+  box-shadow: 0 10px 20px 0 rgba(40, 40, 40, 0.5);
+  display: flex;
+  padding: 20px 30px;
+  position: relative;
+  z-index: 10;
+}
+
+.player {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 1;
+}
+
+.action-btn {
+  background-color: #fff;
+  border: none;
+  color: rgb(100, 100, 100);
+  font-size: 30px;
+  cursor: pointer;
+  padding: 10px;
+  margin: 0 20px;
+}
+
+.action-btn.action-btn-big {
+  color: rgb(100, 100, 100);
+  font-size: 30px;
+}
