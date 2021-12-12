@@ -1,5 +1,5 @@
 # READ ME
-**Live Audio** is a live stream audio feed web player. My local revision is connected to a live feed of a local jazz station.
+**Live Audio** is a live stream audio feed web player. My local revision is connected to a live feed of a jazz station.
 
 Preview:
 ![](screenshot.png)
